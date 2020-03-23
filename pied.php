@@ -1,4 +1,5 @@
 <footer>
+salut!c'est kaoutar de lpmi
   <table>  
     <TR>		
       <TD width=40%>		
